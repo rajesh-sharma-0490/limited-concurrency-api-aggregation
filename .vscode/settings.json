@@ -1,0 +1,9 @@
+{
+    "mochaExplorer.require": "ts-node/register",
+    "mochaExplorer.files": "${workspaceRoot}/test/*.ts",
+    "files.exclude": {
+        "**/*.js": true,
+        "**/*.js.map": true,
+        "**/*.d.ts": true
+    }
+}
